@@ -1,5 +1,11 @@
 # Belly Button Biodiversity
 
+
+<img src="images/bacteria.jpeg"
+     alt="Bacteria"
+     style="float: left; margin-right: 10px;" 
+     href= "images/bacteria.jpeg"/>
+
 [Bacteria](images/bacteria.jpeg)
 - You can check out the app [Here](https://veraroberto.github.io/plotly-challenge/)
 
@@ -10,24 +16,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+
+```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
