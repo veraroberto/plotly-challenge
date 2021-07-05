@@ -3,10 +3,8 @@
 
 <img src="images/bacteria.jpeg"
      alt="Bacteria"
-     style="float: left; margin-right: 10px;" 
      href= "images/bacteria.jpeg"
-     class="center"
-     />
+     class="center"/>
 
 
 This app is an  interactive dashboard that explore's the Belly Button Biodiversity dataset, which catalogs the microbes that colonize human navels.
