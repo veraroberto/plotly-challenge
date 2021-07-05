@@ -1,6 +1,6 @@
 # Belly Button Biodiversity
 
-[Bacteria]("images/bacteria.jpeg")
+[Bacteria](images/bacteria.jpeg)
 - You can check out the app [Here](https://veraroberto.github.io/plotly-challenge/)
 
 You can use the [editor on GitHub](https://github.com/veraroberto/plotly-challenge/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
